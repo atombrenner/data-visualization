@@ -1,2 +1,5 @@
 
 .chart {background-color: aliceblue}
+
+.axis {font-family: sans-serif; font-size: 0.8em}
+.axis line,path {stroke-width: 1px; stroke: black; shape-rendering: crispEdges; fill:none;}
