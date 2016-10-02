@@ -1,2 +1,2 @@
-# data-visualization
-Examples of Data Visualization
+# Data Visualization Examples
+Examples of Data Visualizations with D3
