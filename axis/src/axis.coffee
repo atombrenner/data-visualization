@@ -13,3 +13,4 @@ axisY = d3.svg.axis().scale(scaleY).orient('left')
 chart.append('g').attr('class', 'x axis').attr('transform', "translate(#{margin.left}, #{margin.top + height})").call(axisX)
 chart.append('g').attr('class', 'y axis').attr('transform', "translate(#{margin.left}, #{margin.top})").call(axisY)
 
+
